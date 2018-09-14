@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на курс по Java
+
+Данный курс ориентирован на людей уже имеющих опыт программирования на других языках.
+
+Все материалы для освоения курса расположены на [onedrv](https://1drv.ms/f/s!AnKjPGSwJeaXtFsQTnqF2g6SFj25).
+
+### Тесты
+
+[Входной тест](https://docs.google.com/forms/d/e/1FAIpQLScK8O8lyrwiyWguq_cQXSJXssmiOE1jZ7ULU1ZzKaEmueGKcw/viewform?usp=sf_link)
 
 You can use the [editor on GitHub](https://github.com/skew/java/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
