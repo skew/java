@@ -12,8 +12,10 @@
 
 # Язык Java
 
-https://www.youtube.com/watch?v=YVRMRZZD3Hg
+[Введение](https://www.youtube.com/watch?v=YVRMRZZD3Hg)
 
-https://www.youtube.com/watch?v=2fz9CCVJlsk
+[ООП](https://www.youtube.com/watch?v=2fz9CCVJlsk)
 
-https://www.youtube.com/watch?v=ePeoHgDjVZE
+[Особенности языка](https://www.youtube.com/watch?v=ePeoHgDjVZE)
+
+### [Баллы](https://docs.google.com/spreadsheets/d/1L6mPsBtCBjMALAK_fewlrGtnhtj4XClf-fpe1FamiIE/edit?usp=sharing)
