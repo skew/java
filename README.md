@@ -18,4 +18,6 @@
 
 [Особенности языка](https://www.youtube.com/watch?v=ePeoHgDjVZE)
 
+---------------------------
+
 ### [Баллы](https://docs.google.com/spreadsheets/d/1L6mPsBtCBjMALAK_fewlrGtnhtj4XClf-fpe1FamiIE/edit?usp=sharing)
