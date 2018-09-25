@@ -6,7 +6,8 @@
 
 ### Тесты
 
-[Входной тест](https://docs.google.com/forms/d/e/1FAIpQLScK8O8lyrwiyWguq_cQXSJXssmiOE1jZ7ULU1ZzKaEmueGKcw/viewform?usp=sf_link)
+[Входной тест](https://docs.google.com/forms/d/e/1FAIpQLScK8O8lyrwiyWguq_cQXSJXssmiOE1jZ7ULU1ZzKaEmueGKcw/viewform)
+[Тест по блоку "Язык Java"](https://docs.google.com/forms/d/e/1FAIpQLSfaFRhIan2_5epQG2yGxQAXy7IlJycsmNP2JMd-h4LcWwkEBA/viewform)
 
 ### Занятия
 
@@ -17,6 +18,8 @@
 [ООП](https://www.youtube.com/watch?v=2fz9CCVJlsk)
 
 [Особенности языка](https://www.youtube.com/watch?v=ePeoHgDjVZE)
+
+[Перечисления. Аннотации. Обобщения.](https://www.youtube.com/watch?v=mciN7ana6eY)
 
 ---------------------------
 
