@@ -7,6 +7,7 @@
 ### Тесты
 
 [Входной тест](https://docs.google.com/forms/d/e/1FAIpQLScK8O8lyrwiyWguq_cQXSJXssmiOE1jZ7ULU1ZzKaEmueGKcw/viewform)
+
 [Тест по блоку "Язык Java"](https://docs.google.com/forms/d/e/1FAIpQLSfaFRhIan2_5epQG2yGxQAXy7IlJycsmNP2JMd-h4LcWwkEBA/viewform)
 
 ### Занятия
