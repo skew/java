@@ -1,10 +1,10 @@
-## Добро пожаловать на курс по Java
+# Добро пожаловать на курс по Java
 
 Данный курс ориентирован на людей уже имеющих опыт программирования на других языках.
 
 Все материалы для освоения курса расположены на [**1DRV**](https://1drv.ms/f/s!AnKjPGSwJeaXtFsQTnqF2g6SFj25).
 
-### Тесты
+## Тесты
 
 [Входной тест](https://docs.google.com/forms/d/e/1FAIpQLScK8O8lyrwiyWguq_cQXSJXssmiOE1jZ7ULU1ZzKaEmueGKcw/viewform)
 
@@ -12,9 +12,9 @@
 
 [Тест по блоку "Библиотека Java"](https://docs.google.com/forms/d/e/1FAIpQLSf8_3Qsn9z5ONaqrhSRVenN_-MsPimPyKmNgNVCvuCpYSdlDg/viewform)
 
-### Занятия
+# Занятия
 
-# Язык Java
+## Язык Java
 
 [Введение](https://www.youtube.com/watch?v=YVRMRZZD3Hg)
 
@@ -24,7 +24,7 @@
 
 [Перечисления. Аннотации. Обобщения.](https://www.youtube.com/watch?v=mciN7ana6eY)
 
-# Библиотека Java
+## Библиотека Java
 
 [Collections Framework](https://youtu.be/tfRxCeYWc-g)
 
