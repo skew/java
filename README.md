@@ -10,6 +10,8 @@
 
 [Тест по блоку "Язык Java"](https://docs.google.com/forms/d/e/1FAIpQLSfaFRhIan2_5epQG2yGxQAXy7IlJycsmNP2JMd-h4LcWwkEBA/viewform)
 
+[Тест по блоку "Библиотека Java"](https://docs.google.com/forms/d/e/1FAIpQLSf8_3Qsn9z5ONaqrhSRVenN_-MsPimPyKmNgNVCvuCpYSdlDg/viewform)
+
 ### Занятия
 
 # Язык Java
