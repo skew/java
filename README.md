@@ -35,3 +35,5 @@
 ### [Обратная связь](https://docs.google.com/forms/d/1gQ_rOuFfYJ7AvUGBEnEJUVn7Ciue_k1AWtlW7e7fqQY/edit)
 
 ### [Статьи](https://skew.github.io/java/articles)
+
+### [Сайты](https://skew.github.io/java/sites)
