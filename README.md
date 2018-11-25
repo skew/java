@@ -28,6 +28,10 @@
 
 [Collections Framework](https://youtu.be/tfRxCeYWc-g)
 
+## Работа с БД
+
+[JPA](https://youtu.be/hzyJmJx14MU)
+
 ---------------------------
 
 ### [Баллы](https://docs.google.com/spreadsheets/d/1L6mPsBtCBjMALAK_fewlrGtnhtj4XClf-fpe1FamiIE/edit?usp=sharing)
