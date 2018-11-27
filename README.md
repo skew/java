@@ -12,6 +12,8 @@
 
 [Тест по блоку "Библиотека Java"](https://docs.google.com/forms/d/e/1FAIpQLSf8_3Qsn9z5ONaqrhSRVenN_-MsPimPyKmNgNVCvuCpYSdlDg/viewform)
 
+[Тест по блоку "Работа с БД"](https://docs.google.com/forms/d/e/1FAIpQLSdYDCVt4eGYgLMRJmySqs4B8bEYA5wD2DCdGXCT1YroumfH0g/viewform)
+
 # Занятия
 
 ## Язык Java
