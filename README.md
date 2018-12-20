@@ -14,8 +14,7 @@
 
 [Тест по блоку "Работа с БД"](https://docs.google.com/forms/d/e/1FAIpQLSdYDCVt4eGYgLMRJmySqs4B8bEYA5wD2DCdGXCT1YroumfH0g/viewform)
 
-[Тест по блоку "Java EE"]
-(https://docs.google.com/forms/d/e/1FAIpQLSc1h1YEdRtFb_8GBC5GQkdSH3RMZgxTOk1MKJCP0Pfs8Qc8Uw/viewform)
+[Тест по блоку "Java EE"](https://docs.google.com/forms/d/e/1FAIpQLSc1h1YEdRtFb_8GBC5GQkdSH3RMZgxTOk1MKJCP0Pfs8Qc8Uw/viewform)
 
 # Занятия
 
